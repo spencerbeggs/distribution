@@ -1,6 +1,6 @@
 # Distribution
 
-The Docker toolset to pack, ship, store, and deliver content.
+The Docker toolset to pack, ship, store, and deliver content
 
 This repository's main product is the Docker Registry 2.0 implementation
 for storing and distributing Docker images. It supersedes the [docker/docker-
@@ -58,10 +58,10 @@ For information on upcoming functionality, please see [ROADMAP.md](ROADMAP.md).
 By default, Docker users pull images from Docker's public registry instance.
 [Installing Docker](http://docs.docker.com/installation) gives users this
 ability. Users can also push images to a repository on Docker's public registry,
-if they have a [Docker Hub](https://hub.docker.com/) account. 
+if they have a [Docker Hub](https://hub.docker.com/) account.
 
 For some users and even companies, this default behavior is sufficient. For
-others, it is not. 
+others, it is not.
 
 For example, users with their own software products may want to maintain a
 registry for private, company images. Also, you may wish to deploy your own
